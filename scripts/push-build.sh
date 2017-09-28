@@ -36,7 +36,7 @@ git checkout $SOURCE_BRANCH
 # Commit and push to github
 sha=$(git log | sed -n 's/.*\([a-z0-9]\{40\}\).*/\1/p' | head -1)
 cd $DESTINATION
-git add --all .
+git add README.md *.pdf
 git commit -m "Updating to $USERNAME/$REPO@$sha."
 git push --quiet upstream HEAD:$DESTINATION_BRANCH
 echo "Pushed updated branch $DESTINATION_BRANCH to GitHub."
