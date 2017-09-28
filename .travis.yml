@@ -7,4 +7,4 @@ before_install:
 
 script:
   - make
-  - sh script/push-build.sh
+  - sh scripts/push-build.sh
