@@ -1,0 +1,39 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{Introduzione}{5}
+\contentsline {chapter}{\numberline {1}Misure di Radon}{7}
+\contentsline {section}{\numberline {1.1}Misure su un insieme}{7}
+\contentsline {section}{\numberline {1.2}Misure su $\ensuremath {\math@bb {R}}^n$}{14}
+\contentsline {subsection}{\numberline {1.2.1}Boreliani. Misure di Borel. Misure di Radon}{14}
+\contentsline {subsection}{\numberline {1.2.2}Approssimazione per mezzo di aperti e di compatti}{16}
+\contentsline {subsection}{\numberline {1.2.3}Criterio di Caratheodory}{20}
+\contentsline {subsection}{\numberline {1.2.4}La misura di Lebesgue}{21}
+\contentsline {section}{\numberline {1.3}Funzioni misurabili}{24}
+\contentsline {subsection}{\numberline {1.3.1}Teoremi di Lusin e di Egorov}{29}
+\contentsline {section}{\numberline {1.4}Integrali e teoremi di passaggio al limite}{33}
+\contentsline {section}{\numberline {1.5}Misure prodotto. Teorema di Fubini}{40}
+\contentsline {subsection}{\numberline {1.5.1}Le funzioni $\Gamma $ e $\beta $}{47}
+\contentsline {subsection}{\numberline {1.5.2}Il volume della palla $n$-dimensionale}{49}
+\contentsline {chapter}{\numberline {2}Differenziazione di misure di Radon}{50}
+\contentsline {section}{\numberline {2.1}Teoremi di ricoprimento}{50}
+\contentsline {subsection}{\numberline {2.1.1}Teorema di ricoprimento di Vitali}{50}
+\contentsline {subsection}{\numberline {2.1.2}Teorema di ricoprimento di Besicovitch}{54}
+\contentsline {section}{\numberline {2.2}Derivate}{62}
+\contentsline {section}{\numberline {2.3}Integrazione di derivate. Decomposizione di Lebesgue}{64}
+\contentsline {section}{\numberline {2.4}Teorema di differenziazione di Lebesgue-Besicovitch}{70}
+\contentsline {chapter}{\numberline {3}La misura di Hausdorff}{75}
+\contentsline {section}{\numberline {3.1}Definizione e propriet\`a elementari}{75}
+\contentsline {section}{\numberline {3.2}Dimensione di Hausdorff}{78}
+\contentsline {section}{\numberline {3.3}L'insieme di Cantor}{82}
+\contentsline {section}{\numberline {3.4}Disuguaglianza isodiametrica. $\ensuremath {\mathcal {H}}^n = \ensuremath {\mathcal {L}}^n$ su $\ensuremath {\math@bb {R}}^n$}{85}
+\contentsline {section}{\numberline {3.5}Misura di Hausdorff e propriet\`a fini delle funzioni}{91}
+\contentsline {subsection}{\numberline {3.5.1}Grafici delle funzioni Lipschitz}{91}
+\contentsline {subsection}{\numberline {3.5.2}L'insieme dove una funzione sommabile \`e ``grande''}{93}
+\contentsline {chapter}{\numberline {4}Formule di area e di coarea}{95}
+\contentsline {section}{\numberline {4.1}Jacobiano di un operatore lineare}{95}
+\contentsline {section}{\numberline {4.2}Funzioni Lipschitz e differenziabilit\`a}{97}
+\contentsline {section}{\numberline {4.3}Formula dell'area. Applicazioni}{98}
+\contentsline {section}{\numberline {4.4}Formula di coarea. Applicazioni}{101}
+\contentsline {subsection}{\numberline {4.4.1}Il volume della palla $n$-dimensionale}{104}
+\contentsline {chapter}{Bibliografia}{106}
+\contentsline {chapter}{Indice analitico}{107}
