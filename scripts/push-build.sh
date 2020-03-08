@@ -9,7 +9,7 @@ DESTINATION=build
 SOURCE_BRANCH=master
 DESTINATION_BRANCH=build
 
-if [[ $TRAVIS_PULL_REQUEST -gt 0 ]]; then
+if test $TRAVIS_PULL_REQUEST -gt 0; then
     echo 'Pull request detected. Not proceeding with deploy.'
     exit
 fi
@@ -23,7 +23,7 @@ git reset "upstream/$DESTINATION_BRANCH"
 cd ..
 
 # Configure git if this is run in Travis CI
-if [[ -n $TRAVIS ]]; then
+if test -n $TRAVIS; then
     cd $DESTINATION
     git config user.name "$GIT_NAME"
     git config user.email $GIT_EMAIL
